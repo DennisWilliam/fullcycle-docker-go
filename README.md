@@ -28,5 +28,5 @@ Foi necessário criar uma imagem scratch para conseguir diminuir o tamanho da im
 
 ![Imagem com menos de 2MB](docker_hub.png)
 
-Link: docker pull dennisw07/fullcycle
+Link: docker pull dennisw07/fullcycle:1.0
 
